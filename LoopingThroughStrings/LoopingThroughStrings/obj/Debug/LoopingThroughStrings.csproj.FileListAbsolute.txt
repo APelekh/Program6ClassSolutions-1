@@ -1,0 +1,6 @@
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\LoopingThroughStrings\LoopingThroughStrings\bin\Debug\LoopingThroughStrings.exe.config
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\LoopingThroughStrings\LoopingThroughStrings\bin\Debug\LoopingThroughStrings.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\LoopingThroughStrings\LoopingThroughStrings\bin\Debug\LoopingThroughStrings.pdb
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\LoopingThroughStrings\LoopingThroughStrings\obj\Debug\LoopingThroughStrings.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\LoopingThroughStrings\LoopingThroughStrings\obj\Debug\LoopingThroughStrings.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\LoopingThroughStrings\LoopingThroughStrings\obj\Debug\LoopingThroughStrings.pdb
