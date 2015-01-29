@@ -1,0 +1,6 @@
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\Week1Practice\Week1Practice\bin\Debug\Week1Practice.exe.config
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\Week1Practice\Week1Practice\bin\Debug\Week1Practice.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\Week1Practice\Week1Practice\bin\Debug\Week1Practice.pdb
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\Week1Practice\Week1Practice\obj\Debug\Week1Practice.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\Week1Practice\Week1Practice\obj\Debug\Week1Practice.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\Week1Practice\Week1Practice\obj\Debug\Week1Practice.pdb
