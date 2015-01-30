@@ -27,7 +27,7 @@ namespace Week1Review
 
 
             Console.WriteLine(AnNoYiNgTeXtIfYeR("this is annoying and hard to read.  i am so 90s.  aol teen chat 13. a/s/l?"));
-            //keep console open
+            //keep console open until key press
             Console.ReadKey();
         }
 
