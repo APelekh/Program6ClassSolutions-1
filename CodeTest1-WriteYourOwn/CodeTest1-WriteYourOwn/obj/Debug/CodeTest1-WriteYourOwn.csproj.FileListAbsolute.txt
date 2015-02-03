@@ -1,0 +1,6 @@
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\CodeTest1-WriteYourOwn\CodeTest1-WriteYourOwn\bin\Debug\CodeTest1-WriteYourOwn.exe.config
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\CodeTest1-WriteYourOwn\CodeTest1-WriteYourOwn\obj\Debug\CodeTest1-WriteYourOwn.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\CodeTest1-WriteYourOwn\CodeTest1-WriteYourOwn\bin\Debug\CodeTest1-WriteYourOwn.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\CodeTest1-WriteYourOwn\CodeTest1-WriteYourOwn\bin\Debug\CodeTest1-WriteYourOwn.pdb
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\CodeTest1-WriteYourOwn\CodeTest1-WriteYourOwn\obj\Debug\CodeTest1-WriteYourOwn.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\CodeTest1-WriteYourOwn\CodeTest1-WriteYourOwn\obj\Debug\CodeTest1-WriteYourOwn.pdb

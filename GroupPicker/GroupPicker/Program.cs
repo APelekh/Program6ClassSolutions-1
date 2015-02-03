@@ -13,10 +13,11 @@ namespace GroupPicker
             //new list to hold the student
             List<string> studentList = new List<string>();
             //populating that list with strings (mine are numbers, you'll use names)
-            for (int i = 1; i <= 18; i++) { studentList.Add(i.ToString()); }
+            for (int i = 1; i <= 17; i++) { studentList.Add(i.ToString()); }
 
             //function call for groups of 3
-            PickGroups(studentList, 3);
+            int groupsize = 4;
+            PickGroups(studentList, groupsize);
 
 
             Console.ReadKey();
@@ -29,6 +30,7 @@ namespace GroupPicker
         /// <param name="groupSize">the size of each group</param>
         static void PickGroups(List<string> studentList, int groupSize)
         {
+
             //rng for picking a random student
             Random rng = new Random();
             //list to hold the current group we are assigning

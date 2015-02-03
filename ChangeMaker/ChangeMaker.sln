@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeMaker", "ChangeMaker\ChangeMaker.csproj", "{7D810A88-F1B9-4035-BCD6-1B055BD99CAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B3FE0A86-686E-4BF0-8F30-335FE0057455}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D810A88-F1B9-4035-BCD6-1B055BD99CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D810A88-F1B9-4035-BCD6-1B055BD99CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D810A88-F1B9-4035-BCD6-1B055BD99CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D810A88-F1B9-4035-BCD6-1B055BD99CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
