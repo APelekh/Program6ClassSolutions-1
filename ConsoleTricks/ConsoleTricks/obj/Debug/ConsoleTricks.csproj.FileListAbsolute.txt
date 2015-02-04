@@ -1,0 +1,6 @@
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\bin\Debug\ConsoleTricks.exe.config
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\bin\Debug\ConsoleTricks.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\bin\Debug\ConsoleTricks.pdb
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\obj\Debug\ConsoleTricks.csprojResolveAssemblyReference.cache
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\obj\Debug\ConsoleTricks.exe
+C:\Users\dustin\Documents\GitHub\Program6ClassSolutions\ConsoleTricks\ConsoleTricks\obj\Debug\ConsoleTricks.pdb
