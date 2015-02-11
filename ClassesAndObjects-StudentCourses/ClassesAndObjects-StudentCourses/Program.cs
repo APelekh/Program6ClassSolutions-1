@@ -50,6 +50,8 @@ namespace ClassesAndObjects_StudentCourses
             var listOfStrings = new List<string>();
             var longStringsWithJohn = listOfStrings.Count(x => x.Length > 5 && x.Contains("John"));
 
+
+            var studentsThatHaveTakenProgramming = studentList.Where(x => x.CourseList.Any(y => y.Name == "Programming"));
             
         }
 
