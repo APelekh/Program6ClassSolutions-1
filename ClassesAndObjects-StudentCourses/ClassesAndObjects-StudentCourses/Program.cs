@@ -21,7 +21,7 @@ namespace ClassesAndObjects_StudentCourses
         static void DoStudentExamples()
         {
             
-            Student student1 = new Student("John McClary");
+            Student student1 = new Student("John McClary", StudentRank.Senior);
             student1.CourseList.Add(new Course("Prof Development", "B"));
             student1.CourseList.Add(new Course("Programming", "D"));
             student1.CourseList.Add(new Course("Hockey History 101", "A"));
@@ -29,7 +29,7 @@ namespace ClassesAndObjects_StudentCourses
 
             student1.PrintStudentInfo();
 
-            Student student2 = new Student("Nicole Wino");
+            Student student2 = new Student("Nicole Wino", StudentRank.Junior);
             student2.CourseList.Add(new Course("Prof Development", "A"));
             student2.CourseList.Add(new Course("Programming", "C"));
             student2.CourseList.Add(new Course("Hockey History 101", "A"));
@@ -156,6 +156,18 @@ namespace ClassesAndObjects_StudentCourses
 
     }
 
+
+    //DEFINING AN ENUMERATION (ENUM)
+    public enum StudentRank
+    {
+        Freshman,
+        Sophmore,
+        Junior,
+        Senior
+    }
+
+  
+
     public class Student
     {
 
@@ -192,13 +204,24 @@ namespace ClassesAndObjects_StudentCourses
             }
         }
 
+        private StudentRank _studentRank;
+        public StudentRank StudentRank
+        {
+            get { return _studentRank; }
+            set { _studentRank = value; }
+        }
+
+        //shorthand property declaration
+        //public StudentRank StudentRank { get; set; }
+
         //other properties might include: age, studentID, DOB, major, ClassRank, Drink Pref, Gender
  
         //STEP 2: CONSTRUCTORS!!!
-        public Student(string name)
+        public Student(string name, StudentRank rank)
         {
             this.Name = name;
             this.CourseList = new List<Course>(); //make sure to initialize any lists
+            this.StudentRank = rank;
         }
 
         //Step 3: METHODS

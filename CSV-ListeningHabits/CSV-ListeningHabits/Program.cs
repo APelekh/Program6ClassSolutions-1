@@ -97,11 +97,11 @@ namespace CSV_ListeningHabits
             //}
             //return count;
 
-   
+          //what does eric listen to on fridays between noon and 5 pm?
+          var theAnswer = musicDataList.Where(x => x.Time.DayOfWeek == DayOfWeek.Friday && x.Time.Hour >= 12 && x.Time.Hour <= 17).GroupBy(x => x.Artist).OrderByDescending(x => x.Count()).ToList();
         }
 
-        // what does eric listen to on fridays between noon and 5 pm?
-        //var the answer = musicDataList.Where(x => x.Time.DayOfWeek == DayOfWeek.Friday && x.Time.Hour >= 12 && x.Time.Hour <= 17).GroupBy(x => x.Artist).OrderByDescending(x => x.Count()).ToList();
+         
 
         
 
