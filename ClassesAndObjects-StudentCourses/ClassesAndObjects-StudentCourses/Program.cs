@@ -41,6 +41,9 @@ namespace ClassesAndObjects_StudentCourses
             studentList.Add(student1);
             studentList.Add(student2);
 
+            var onlyJuniors = studentList
+                .Where(x => x.StudentRank == (StudentRank)3);
+
             IEnumerable<Student> smartPeople = studentList.Where(x => x.GPA > 3.5);
 
             List<string> smartPeopleNames = studentList.Where(x => x.GPA > 3.5).Select(x => x.Name).ToList();
